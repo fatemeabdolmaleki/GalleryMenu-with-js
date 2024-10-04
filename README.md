@@ -1,10 +1,7 @@
 # GalleryMenu-with-javascript
 
-![viewfinal]()
 
-![view final]()
-
-- [Demo Project]()
+- [Demo Project](https://fatemeabdolmaleki.github.io/GalleryMenu-with-js/)
 
 - Developed by fateme abdolmaleki
 
